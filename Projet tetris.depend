@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1584997385 source:c:\users\melin\c\projet tetris\main.c
+	<stdio.h>
+	<stdlib.h>
+	"projet1c.h"
+
+1584994801 c:\users\melin\c\projet tetris\projet1c.h
+
+1584996970 source:c:\users\melin\c\projet tetris\projet1c.c
+	<stdio.h>
+	<stdlib.h>
+	"projet1c.h"
+
+1588023487 source:c:\users\melin\desktop\c\projet tetris\projet1c.c
+	<stdio.h>
+	<stdlib.h>
+	"projet1c.h"
+	<time.h>
+
+1588023702 c:\users\melin\desktop\c\projet tetris\projet1c.h
+	<time.h>
+
+1588023702 source:c:\users\melin\desktop\c\projet tetris\main.c
+	<stdio.h>
+	<stdlib.h>
+	"projet1c.h"
+	<time.h>
+
