@@ -1,4 +1,5 @@
 # Comme-un-air-de-Tetris
+Projet académique 
 Un jeu remixé de Tetris codé en C par Mélina Wong.
 
 Règle du jeu :
